@@ -10,7 +10,8 @@ This analysis was designed to uncover actionable insights and support strategic 
 
 This analysis was powered by a blend of data, design, and strategy tools: 
 
-- Miro (Planning) 
+- Miro (Planning)
+- Excel (Data cleaning)
 - Excel (Creating Pivot Tables & Charts) 
 - Excel (Visualization)
 
