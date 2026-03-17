@@ -165,13 +165,9 @@ Users can filter results by:
 
 # 🖥 Dashboard Preview
 
-Excel Dashboard showing KPIs, revenue trends, and marketing performance.
+The interactive Excel dashboard consolidates KPIs, revenue trends, product performance, and order status analysis.
 
-![Dashboard Screenshot](INSERT_IMAGE_LINK_HERE)
-
-*(Upload your Excel dashboard screenshot and replace the link above.)*
-
----
+![Dashboard Screenshot](https://imgur.com/a/obi-h0i5j6c.png)
 
 # 🔍 Key Insights
 
